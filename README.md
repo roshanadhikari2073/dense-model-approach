@@ -1,2 +1,2 @@
 # dense-model-approach
-This is your first repo!
+Real-time stock data prediction using TensorFlow and TensorFlow Datasets.
